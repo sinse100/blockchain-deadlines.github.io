@@ -160,22 +160,22 @@
   - SEC
   - DS
   inactive: false
-- id: consensusdays23
-  year: 2023
-  title: ConsensusDays
-  full_title: ConsensusDays '23 Workshop
-  link: https://research.protocol.ai/sites/consensusday23/
-  deadline: '2023-03-19 23:59:59'
-  timezone: Etc/GMT+12
+- id: ISSRE26
+  year: 2026
+  title: ISSRE 2026
+  full_title: International Symposium on Software Reliability Engineering 2026
+  link: https://cyprusconferences.org/issre2026/
+  deadline: '2026-04-10 21:00:00'
+  timezone: Etc/GMT-9
   note: ''
-  place: Virtual
+  place: Limassol, Cyprus
   date: June 5-6, 2023
-  start: '2023-06-05'
-  end: '2023-06-06'
+  start: '2026-10-20 21:00:00'
+  end: '2026-10-25 20:59:00'
   sub:
   - BC
   - DS
-  inactive: true
+  inactive: false
 - id: crypto26
   year: 2026
   title: CRYPTO
